@@ -1,0 +1,5 @@
+{
+  "name": "Veritas AI Detector",
+  "description": "A professional AI content detection tool that analyzes Word documents and text to determine human vs. AI authorship percentage with detailed linguistic reports.",
+  "requestFramePermissions": []
+}
